@@ -311,13 +311,13 @@ function Footer() {
     <div className="mx-auto mt-2 flex max-w-3xl items-center justify-between text-[11px] text-white/45">
       <div>Repull data, your LLM provider.</div>
       <a
-        href="https://vanio.ai"
+        href="https://repull.dev"
         target="_blank"
         rel="noreferrer"
         className="inline-flex items-center gap-1 rounded-full border border-white/[0.08] bg-white/[0.03] px-2 py-0.5 text-white/65 transition hover:border-indigo-400/40 hover:text-white"
       >
         <span className="size-1.5 rounded-full bg-emerald-400" />
-        AI powered by Vanio AI
+        Powered by Repull
       </a>
     </div>
   );
